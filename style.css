@@ -77,12 +77,12 @@ display: flex;
 }
 
 .catalog img {
-     width: 250px;    border-radius: 20px;
+     width: 300px;    border-radius: 20px;
 
 }
 .catalog a{
     box-shadow: 5px 5px 10px 10px #0f8fbdce ;
-    width: 250px;
+    width: 300px;
     margin-bottom: 30px;
     border-radius: 20px;
 
