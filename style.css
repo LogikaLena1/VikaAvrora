@@ -1,0 +1,151 @@
+body {
+    font-family: sans-serif;
+    margin: 0px 20px;
+    font-family:  Comic Sans, cursive;
+    background-image: linear-gradient(#e6ede9,#eafa37,#fffb08, #eafa37,#e6ede9  );
+    color: rgb(20, 15, 15);
+}
+
+.social {
+    display: block;
+    width: 30px;
+   
+}
+.one div{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+aside {
+    position: fixed;
+    right: -20px;
+    bottom: 20px;
+    width: 80px;
+    background-color: rgba(238, 238, 238, 0.89);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+span {
+    color:#c40202;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.jj {
+   color: #0285b5
+}
+
+.jjj {
+   color: #64d2fa ;
+   background-color:  #0f8ebd ;
+   text-decoration:  3289a8;
+}
+
+.one p {
+    width: 40%;
+    float: left;
+}
+
+.one img{
+    width: 50%;
+    float: right;
+}
+
+.one div{
+    display: flex;
+    justify-content: space-between;
+}
+.karta ul{
+    width: 40%;
+    float: left;
+}
+.karta img{
+    width: 50%;
+    float: right;
+}
+.karta div{
+        display: flex;
+    justify-content: space-between;
+}
+
+.catalog div {
+display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 15px;
+    padding: 10px;
+}
+
+.catalog img {
+     width: 250px;    border-radius: 20px;
+
+}
+.catalog a{
+    box-shadow: 5px 5px 10px 10px #0f8fbdce ;
+    width: 250px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+
+}
+.catalog a:hover{
+      box-shadow: 7px 7px 10px 10px #c0dce7ce ;
+      transition: 0.4s;
+}
+
+h2 {
+    font-family:Comic Sans MS, Comic Sans, cursive ;
+     }
+
+nav a {
+   text-decoration: none;
+   color: #0c0966; 
+   font-family: DejaVu Sans Mono, monospace;
+   background-color:  #0f8ebd ;
+   border-radius: 10px;
+   padding: 6px;
+   margin: 10px;
+   margin-bottom: 15px;
+   margin-top: 15px;
+   }    
+
+nav a:hover{
+    color: black ;
+    background-color:rgba(187, 97, 97, 0.827) ;
+    color: white;
+    box-shadow: 5px 5px 5px 0px red ;
+}
+footer{
+    background: url("https://i.ibb.co/S3kX02K/Group-1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 170px;
+}
+
+footer div{
+    position: absolute;
+    right: 100px;
+}
+.foot{
+    position: absolute;
+    left: 50px;
+    width: 50px;
+    font-size: 26px;
+}
+.sport div{
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    color:rgb(221, 77, 41);
+    font-size: 30px;
+    text-align: center;
+}
+
+.propocishion div{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(251, 242, 80);
+    padding: 30px;
+    border: 5px #0f8ebd  solid;
+    /* width: 60%; */
+}
